@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,400&display=swap");
+
+.container {
+  max-width: 960px;
+}
+
+.card {
+  margin-top: 200px;
+}
+
+body {
+  background-color: #a791c9;
+  font-family: "Poppins", sans-serif;
+}
+
+#searchBtn {
+  background-color: #a77ee8;
+  color: white;
+}
+#searchBtn:hover {
+  background-color: #ac8dde;
+}
+
+
